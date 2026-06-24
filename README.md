@@ -1,6 +1,6 @@
-# Hi there, I'm Zayaad Satti 👋
+# Hi there, I'm Zayaad Wajid 👋
 
-Aspiring Full Stack Developer · AI/ML Enthusiast · Cybersecurity & AI Systems Builder
+· AI/ML Enthusiast  · Aspiring Full Stack Developer · AI Systems Builder
 
 ![GitHub followers](https://img.shields.io/github/followers/zayaadw?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=zayaadw&style=flat-square)
@@ -45,28 +45,6 @@ Aspiring Full Stack Developer · AI/ML Enthusiast · Cybersecurity & AI Systems 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🛡️ AI-Driven Autonomous Cyber Defense System
-An AI-powered threat detection and automated response system focused on banking security.  
-Built with **FastAPI, React, MongoDB, ML models, AI agents, and cybersecurity automation workflows**.
-
-### 🧠 AI Research Assistant
-A research assistant system designed around **LLMs, RAG, AI agents, document processing, and intelligent search**.
-
-### 📚 Quizify
-A full-stack quiz platform using **React, backend APIs, PostgreSQL/Supabase, and deployment-ready architecture**.
-
----
-
-## 📊 GitHub Stats
-
-![Zayaad's GitHub stats](https://github-readme-stats.vercel.app/api?username=zayaadw&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zayaadw&layout=compact&theme=tokyonight)
 
 ---
 
