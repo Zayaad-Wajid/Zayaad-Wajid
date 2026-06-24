@@ -58,9 +58,6 @@
 ## 🤝 Let's Connect
 
 I’m open to collaborating on **full-stack projects, AI/ML systems, cybersecurity tools, and backend engineering projects**.
-## 🤝 Connect with Me
-
-## 🤝 Connect with Me
 
 <div align="center">
 
