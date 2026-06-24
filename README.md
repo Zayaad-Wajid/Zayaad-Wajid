@@ -2,8 +2,6 @@
 
 · AI/ML Enthusiast  · Aspiring Full Stack Developer · AI Systems Builder
 
-![Profile views](https://komarev.com/ghpvc/?username=zayaadw&style=flat-square)
-
 ---
 
 ## 👨‍💻 About Me
@@ -62,20 +60,34 @@
 I’m open to collaborating on **full-stack projects, AI/ML systems, cybersecurity tools, and backend engineering projects**.
 ## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/zayaadwajid10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Zayaad%20Wajid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+## 🤝 Connect with Me
 
-  <a href="https://github.com/zayaadw" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-zayaadw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<div align="center">
 
-  <a href="https://zayaad-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://www.linkedin.com/in/zayaadwajid10/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="60">
+</a>
+&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:zayaadw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zayaadw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<a href="https://github.com/zayaadw" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="60">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://zayaad-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=vercel&logoColor=white" height="60">
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:zayaadw@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60">
+</a>
+
+</div>
+---
+
+<p align="center">
+  <i>"Code is not just about solving problems — it's about building possibilities."</i>
 </p>
+
+---
