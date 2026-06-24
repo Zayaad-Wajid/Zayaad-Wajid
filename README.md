@@ -60,3 +60,22 @@
 ## 🤝 Let's Connect
 
 I’m open to collaborating on **full-stack projects, AI/ML systems, cybersecurity tools, and backend engineering projects**.
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/zayaadwajid10/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Zayaad%20Wajid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/zayaadw" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-zayaadw-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://zayaad-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:zayaadw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zayaadw%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
