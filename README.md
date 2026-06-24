@@ -2,7 +2,6 @@
 
 · AI/ML Enthusiast  · Aspiring Full Stack Developer · AI Systems Builder
 
-![GitHub followers](https://img.shields.io/github/followers/zayaadw?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=zayaadw&style=flat-square)
 
 ---
